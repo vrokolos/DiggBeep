@@ -1,0 +1,14 @@
+Homepage: http://vrokolos.blogspot.com
+
+This windows application monitors your recent digg (www.digg.com) stories from your traybar. It will show you how many people digged each of your stories and how many people left comments using a simple MSN-like interface. You can also hear a sound when any of your monitor stories gets digged or commented while you do other stuff with your pc (Optional). All you have to do is run diggtray.exe and enter your digg.com username.
+
+You need the .net 2 framework in order to run this. Get it from microsoft.
+
+Recommendations:
+- Use as long interval as possible because this will consume both yours and the digg's server bandwidth. The default is 60 seconds.
+- For the same reason be cautious of how many stories you'll want to monitor. The default is 25.
+- If all those diggs sounds are getting annoyed just disable them from settings.
+
+Post any bugs you find or any *reasonable* suggestions you have at my blog: http://vrokolos.blogspot.com
+eg: I hate installers so don't come complaining! :)
+eg#2: The digg dude picture and the digg icon are registered to digg.com.

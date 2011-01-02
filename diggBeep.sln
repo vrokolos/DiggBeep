@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diggBeep", "diggTray\diggBeep.csproj", "{FF9715EE-6B40-4258-B01C-5A60BEA80FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiggAPI", "DiggAPI\DiggAPI.csproj", "{A1820DE9-2473-4910-850A-C73F31DB3591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF9715EE-6B40-4258-B01C-5A60BEA80FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9715EE-6B40-4258-B01C-5A60BEA80FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9715EE-6B40-4258-B01C-5A60BEA80FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9715EE-6B40-4258-B01C-5A60BEA80FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1820DE9-2473-4910-850A-C73F31DB3591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1820DE9-2473-4910-850A-C73F31DB3591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1820DE9-2473-4910-850A-C73F31DB3591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1820DE9-2473-4910-850A-C73F31DB3591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
